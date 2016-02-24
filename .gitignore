@@ -60,3 +60,10 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# custome files
+ebooks/
+update-books-links
+update.txt
+tmp
+download.log
